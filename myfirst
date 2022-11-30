@@ -1,2 +1,0 @@
-name = input("Please key in your name: ")
-print(f"Your name is {name}.")
